@@ -1,2 +1,2 @@
-# Advanced_Java_Projects
-A collection of different Java programs that I wrote for my Advanced Java class at OCCC
+# Data Structures Projects
+A collection of different C++ programs which I wrote for my Data Structures class at the University of Oklahoma.
